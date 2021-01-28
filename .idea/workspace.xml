@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89948406-35a5-4f1e-895b-3b7cf2e627cb" name="Default Changelist" comment="" />
+    <list default="true" id="89948406-35a5-4f1e-895b-3b7cf2e627cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nYwQlXfPyCb4dE5b4rmohtLtKO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,5 +43,11 @@
       <updated>1611580317561</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1611580468886">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1611580468886" />
   </component>
 </project>
